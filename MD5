@@ -1,0 +1,11 @@
+02242e7f0220a53e81b0c7164dbb09ce *DESCRIPTION
+7e0cf75261233d9164c81be0dae9553b *NAMESPACE
+818eecd012f994fa6cc3e8e93b2e88e5 *NEWS.md
+f85d31abd53c0fd154e1a795048b826d *R/BeastJar.R
+8850f6d436126e29a60f123bc27b57b3 *README.md
+f670f9df980a28a79efa634dad2bf856 *inst/COPYRIGHTS
+8daeabe16a7752724fae4a4cd7939465 *inst/java/beast.jar
+5e3856e6107114a8e9be57c75a747cb7 *java/test/org/ohdsi/TestRunner.java
+c2c64758cfc75db7d1b4c27495babe07 *man/BeastJar.Rd
+3fb95cb322471c184aeeecc7a39a6888 *tests/testthat.R
+3324612f3f90b27020f7dc515358e54e *tests/testthat/test-installation.R
