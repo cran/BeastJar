@@ -1,7 +1,7 @@
 Package: BeastJar
 Type: Package
 Title: JAR Dependency for MCMC Using 'BEAST'
-Version: 1.10.5
+Version: 1.10.6
 Authors@R: c(
     person("Marc A.", "Suchard", email = "msuchard@ucla.edu", role = c("aut","cre","cph")),
     person("Andrew", "Rambaut", role = "cph"),
@@ -22,12 +22,13 @@ Imports: rJava
 URL: https://github.com/beast-dev/BeastJar
 Copyright: See file COPYRIGHTS
 RoxygenNote: 7.1.1
+SystemRequirements: Java (>= 1.8)
 Suggests: testthat
 NeedsCompilation: no
-Packaged: 2020-10-06 01:03:35 UTC; msuchard
+Packaged: 2020-10-25 12:25:34 UTC; msuchard
 Author: Marc A. Suchard [aut, cre, cph],
   Andrew Rambaut [cph],
   Alexei J. Drummond [cph]
 Maintainer: Marc A. Suchard <msuchard@ucla.edu>
 Repository: CRAN
-Date/Publication: 2020-10-13 13:50:08 UTC
+Date/Publication: 2020-10-26 14:20:06 UTC
